@@ -24,3 +24,17 @@ body {
     border-radius: 10px;
 }
 
+.left-content {
+    background-color: hsl(31, 77%, 52%);
+    height: 400px;
+}
+
+.center-content {
+    background-color: hsl(184, 100%, 22%);
+    height: 400px;
+}
+
+.right-content {
+    background-color: hsl(179, 100%, 13%);
+    height: 400px;
+}
