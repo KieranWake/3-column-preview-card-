@@ -19,9 +19,17 @@ body {
     align-items: center;
     max-width: 800px;
     height: 400px;
-    padding: 15px 15px;
     margin: 15px 15px;
     border-radius: 10px;
+    overflow: hidden;
+}
+
+.left-content,
+.center-content,
+.right-content {
+    height: 100%; 
+    padding: 15px; 
+    margin: 0; 
 }
 
 .left-content {
