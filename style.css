@@ -91,5 +91,12 @@ img {
 }
 
 button {
-    padding: 1.3rem;
+    font-size: .8em;
+    width: 8rem;
+    border-radius: 2rem;
+    padding: .8rem;
+    border: none; 
+    text-decoration: none;
+    font-weight: bold;
 }
+
