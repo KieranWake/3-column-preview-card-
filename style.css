@@ -49,8 +49,8 @@ body {
 }
 
 .left-content p {
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
     color: hsl(0, 0%, 95%);
 }
 
@@ -65,8 +65,8 @@ body {
 }
 
 .center-content p {
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
     color: hsl(0, 0%, 95%);
 }
 
@@ -81,11 +81,15 @@ body {
 }
 
 .right-content p {
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
     color: hsl(0, 0%, 95%);
 }
 
 img {
     width: 60px;
+}
+
+button {
+    padding: 1.3rem;
 }
