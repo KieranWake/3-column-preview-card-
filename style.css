@@ -39,35 +39,53 @@ body {
 
 .left-content {
     background-color: hsl(31, 77%, 52%);
-    padding: 2.5rem;
+    padding: 2.7rem;
 
 }
 
 .left-content h1 {
     text-transform: uppercase;
+    color: hsl(0, 0%, 95%);
 }
 
 .left-content p {
     margin-bottom: 2rem;
     padding-bottom: 2rem;
+    color: hsl(0, 0%, 95%);
 }
 
 .center-content {
     background-color: hsl(184, 100%, 22%);
-    padding: 2.5rem;
+    padding: 2.7rem;
+}
+
+.center-content h1 {
+    text-transform: uppercase;
+    color: hsl(0, 0%, 95%);
 }
 
 .center-content p {
     margin-bottom: 2rem;
     padding-bottom: 2rem;
+    color: hsl(0, 0%, 95%);
 }
 
 .right-content {
     background-color: hsl(179, 100%, 13%);
-    padding: 2.5rem;
+    padding: 2.7rem;
+}
+
+.right-content h1 {
+    text-transform: uppercase;
+    color: hsl(0, 0%, 95%);
 }
 
 .right-content p {
     margin-bottom: 2rem;
     padding-bottom: 2rem;
+    color: hsl(0, 0%, 95%);
+}
+
+img {
+    width: 60px;
 }
