@@ -34,13 +34,22 @@ body {
     align-items: flex-start;
     height: 100%;
     padding: 15px; 
-    margin: 0; 
+    margin: 0px; 
 }
 
 .left-content {
     background-color: hsl(31, 77%, 52%);
     padding: 2.5rem;
-    
+
+}
+
+.left-content h1 {
+    text-transform: uppercase;
+}
+
+.left-content p {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
 }
 
 .center-content {
@@ -48,7 +57,17 @@ body {
     padding: 2.5rem;
 }
 
+.center-content p {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+}
+
 .right-content {
     background-color: hsl(179, 100%, 13%);
     padding: 2.5rem;
+}
+
+.right-content p {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
 }
