@@ -100,3 +100,15 @@ button {
     font-weight: bold;
 }
 
+.left-content button {
+    color: hsl(31, 77%, 52%);
+}
+
+.center-content button {
+    color: hsl(184, 100%, 22%);
+}
+
+.right-content button {
+    color: hsl(179, 100%, 13%);
+}
+
