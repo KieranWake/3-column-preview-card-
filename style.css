@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'LexendDeca-Regular';
+    src: url(fonts/LexendDeca-Regular.ttf) format('truetype'); 
+    font-style: bold;
+}
+
 body {
     background-color: hsl(0, 0%, 95%);
     overflow: hidden; 
@@ -52,6 +58,9 @@ body {
     margin-bottom: 1.5rem;
     padding-bottom: 1.5rem;
     color: hsl(0, 0%, 95%);
+    font-family: 'LexendDeca-Regular';
+    font-size: .8em;
+    font-weight: 10;
 }
 
 .center-content {
@@ -68,6 +77,9 @@ body {
     margin-bottom: 1.5rem;
     padding-bottom: 1.5rem;
     color: hsl(0, 0%, 95%);
+    font-family: 'LexendDeca-Regular';
+    font-size: .8em;
+    font-weight: 10;
 }
 
 .right-content {
@@ -84,6 +96,9 @@ body {
     margin-bottom: 1.5rem;
     padding-bottom: 1.5rem;
     color: hsl(0, 0%, 95%);
+    font-family: 'LexendDeca-Regular';
+    font-size: .8em;
+    font-weight: 10;
 }
 
 img {
