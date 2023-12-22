@@ -139,3 +139,25 @@ button {
     color: hsl(179, 100%, 13%);
 }
 
+@media screen and (max-width: 600px) {
+    .card-container {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .left-content,
+    .center-content,
+    .right-content {
+        width: 100%;
+        margin: 0;
+    }
+
+    .left-content,
+    .center-content,
+    .right-content {
+        padding: 1.5rem; 
+    }
+}
+
+
+
