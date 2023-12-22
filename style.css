@@ -10,6 +10,12 @@
     font-style: bold;
 }
 
+@font-face {
+    font-family: 'BigShoulders-Bold';
+    src: url(fonts/BigShouldersDisplay-Bold.ttf) format('truetype');
+    font-style: bold; 
+}
+
 body {
     background-color: hsl(0, 0%, 95%);
     overflow: hidden; 
@@ -52,6 +58,8 @@ body {
 .left-content h1 {
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
+    font-family: 'BigShoulders-Bold';
+    font-size: 2em;
 }
 
 .left-content p {
@@ -71,6 +79,8 @@ body {
 .center-content h1 {
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
+    font-family: 'BigShoulders-Bold';
+    font-size: 2em;
 }
 
 .center-content p {
@@ -90,6 +100,8 @@ body {
 .right-content h1 {
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
+    font-family: 'BigShoulders-Bold';
+    font-size: 2em;
 }
 
 .right-content p {
